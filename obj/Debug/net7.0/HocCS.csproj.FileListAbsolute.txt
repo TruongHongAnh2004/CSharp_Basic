@@ -1,0 +1,14 @@
+D:\HocCS\bin\Debug\net7.0\HocCS.exe
+D:\HocCS\bin\Debug\net7.0\HocCS.deps.json
+D:\HocCS\bin\Debug\net7.0\HocCS.runtimeconfig.json
+D:\HocCS\bin\Debug\net7.0\HocCS.dll
+D:\HocCS\bin\Debug\net7.0\HocCS.pdb
+D:\HocCS\obj\Debug\net7.0\HocCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocCS\obj\Debug\net7.0\HocCS.AssemblyInfoInputs.cache
+D:\HocCS\obj\Debug\net7.0\HocCS.AssemblyInfo.cs
+D:\HocCS\obj\Debug\net7.0\HocCS.csproj.CoreCompileInputs.cache
+D:\HocCS\obj\Debug\net7.0\HocCS.dll
+D:\HocCS\obj\Debug\net7.0\refint\HocCS.dll
+D:\HocCS\obj\Debug\net7.0\HocCS.pdb
+D:\HocCS\obj\Debug\net7.0\HocCS.genruntimeconfig.cache
+D:\HocCS\obj\Debug\net7.0\ref\HocCS.dll
